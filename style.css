@@ -1,0 +1,10 @@
+.main{
+    position: relative;
+}
+.chu1{
+    display: flex;
+    justify-content: center;
+}
+.thongbao{
+    font-size: 16px;
+}
